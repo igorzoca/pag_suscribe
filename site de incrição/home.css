@@ -1,0 +1,9 @@
+body {
+    background-image: url(back5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bt{
+    align-items: center;
+}
